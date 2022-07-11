@@ -2,9 +2,10 @@
 
 The goal of this small project is to create a small webapp displaying users and their related posts (data are located on [jsonplaceholder](https://jsonplaceholder.typicode.com/)).
 
+
 ## UX/UI
 
-Up to you, probably it should include an input to enter the username, one area to display the repositories of the user and another area to display the organisations.
+Up to you
 
 
 
