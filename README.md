@@ -3,22 +3,20 @@
 The goal of this small project is to create a small webapp displaying users and their related posts (data are located on [jsonplaceholder](https://jsonplaceholder.typicode.com/)).
 
 
-## UX/UI
-
-Up to you
-
-
-
-### Retrieving data
-Add the option to fetch each user posts on jsonplaceholder and display them with their user.
-The name of each user should be editable, and should send the update to the server (note that the update is faked on jsonplaceholder).
-
-
 
 ### Bootstrapping the project
 
 Up to you, we recommend create-react-app.
 
+
+## UX/UI
+
+Up to you
+
+
+### Retrieving data
+Add the option to fetch each user posts on jsonplaceholder and display them with their user.
+The name of each user should be editable, and should send the update to the server (note that the update is faked on jsonplaceholder).
 
 
 ### Submitting the solution
