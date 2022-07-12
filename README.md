@@ -21,7 +21,7 @@ The name of each user should be editable, and should send the update to the serv
 
 ### Submitting the solution
 
-Copy this repository to a repository on your name and add the solution there. It should be clear how to build and run the project locally.
+Store the project to a Github repository on your name (need to be a public repo). It should be clear how to build and run the project locally.
 
 
 
