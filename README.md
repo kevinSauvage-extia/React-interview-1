@@ -4,29 +4,29 @@ The goal of this small project is to create a small webapp displaying users and 
 
 
 
-### Bootstrapping the project
+## Bootstrapping the project
 
 Up to you, we recommend create-react-app.
 
 
-### UX/UI
+## UX/UI
 
 Up to you
 
 
-### Retrieving data
+## Retrieving data
 Add the option to fetch each user posts on jsonplaceholder and display them with their user.
 The name of each user should be editable, and should send the update to the server (note that the update is faked on jsonplaceholder).
 
 
-### Submitting the solution
+## Submitting the solution
 
 Store the project to a Github repository on your name (need to be a public repo). It should be clear how to build and run the project locally.
 
 
 
 
-### Bonus
+## Bonus
 * Use ES6 syntax including arrow functions, destructuring and async/await
 * Adding a spinner when information is loading
 * Deal with errors coming from the backend
