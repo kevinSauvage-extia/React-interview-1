@@ -9,7 +9,7 @@ The goal of this small project is to create a small webapp displaying users and 
 Up to you, we recommend create-react-app.
 
 
-## UX/UI
+### UX/UI
 
 Up to you
 
